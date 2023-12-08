@@ -1,7 +1,7 @@
 # Transforming Education: Predictive Models and Risk Assessment
 
 ## Overview
-This project focuses on leveraging machine learning techniques to gain insights into student performance, predict scholarship eligibility, and assess academic risk. The project includes binary classification tasks using Logistic Regression, Feedforward Neural Network (FNN), and Convolutional Neural Network (CNN) to categorize students and predict their risk levels.
+This project focuses on leveraging machine learning techniques to gain insights into student performance, predict scholarship eligibility, and assess academic risk. The project includes binary classification tasks using Logistic Regression, Feedforward Neural Network (FNN), and MultiLayer Perceptron (MLP) to categorize students and predict their risk levels.
 
 ## Contents
 - [Library and Module Imports](#library-and-module-imports)
@@ -26,7 +26,7 @@ The dataset is loaded, and Logistic Regression is applied for binary classificat
 ## Binary Classification using FNN and MLP
 Two neural network models, FNN and MLP, are trained on SGPA and CGPA data for binary classification. The accuracy of both models is evaluated on the test set.
 
-## Student Risk Prediction using FNN and CNN
+## Student Risk Prediction using FNN and MLP
 Logistic Regression and neural network models (FNN and MLP) are employed to predict student risk levels. The accuracy of each model is printed for evaluation.
 
 ## Visualization of SGPA and CGPA Trends
